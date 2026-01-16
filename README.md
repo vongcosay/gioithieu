@@ -30,7 +30,7 @@ Trong quá trình đó, **ChatGPT** là một “đồng đội” quan trọng,
 * Khám phá và tự triển khai **website / web service**
 * Làm việc với:
 
-  * Web hosting (shared, VPS cơ bản)
+  * Web hostin
   * Domain
   * Deploy & quản lý website
 * Tự học thông qua **thực hành – thử sai – tối ưu**
