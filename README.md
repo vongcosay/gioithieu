@@ -1,19 +1,38 @@
-👋 Xin chào, mình là **Do Nguyen**
+# 👋 Do Nguyen
+
+**IT • Automation • AI**
+
+> Người đam mê **Công nghệ Thông tin**, học IT bằng con đường<br>
+> **tự học – tự mày mò – tự sửa sai**.<br>
+> Không xuất phát điểm hoàn hảo, chỉ có sự kiên trì và tò mò công nghệ.
+
+![Preview](https://raw.githubusercontent.com/vongcosay/html/refs/heads/main/Screenshot%202026-01-25%20020858.jpg)
+
+---
+
+## 🏷️ Vai trò & lĩnh vực
+
+* IT Admin
+* Automation
+* AI Application
+* Script
+* Web & Hosting
+* System
 
 ---
 
 ## 🚀 Giới thiệu
 
-Mình là một người đam mê **Công nghệ Thông tin**, đến với IT hoàn toàn bằng **đam mê và tự học**, đúng nghĩa *vọc vạch*, không qua trường lớp chính quy.
-
-Hành trình học tập của mình gắn liền với:
+Mình đến với IT hoàn toàn bằng đam mê và tự học, đúng nghĩa **vọc vạch**, không qua trường lớp chính quy.<br>
+Học bằng cách **làm thật – sai thật – sửa thật** và rút kinh nghiệm từ chính những lần thất bại.
 
 * 🔍 Tò mò công nghệ
 * 🛠️ Tự mày mò, thử nghiệm
 * ❌ Sai → 🔁 sửa → 📌 rút kinh nghiệm
 * ♾️ Không ngừng học hỏi
 
-Trong quá trình đó, **ChatGPT** là một “đồng đội” quan trọng, hỗ trợ mình từ tư duy, code, cho đến tối ưu giải pháp.
+Trong hành trình đó, **ChatGPT** là một “đồng đội” quan trọng,<br>
+hỗ trợ từ **tư duy**, **viết code** đến **tối ưu giải pháp**.
 
 ---
 
@@ -21,47 +40,34 @@ Trong quá trình đó, **ChatGPT** là một “đồng đội” quan trọng,
 
 ### 🧠 Lập trình & Script
 
-* Viết script, tool, hệ thống phục vụ **nhu cầu thực tế**
-* Giải quyết bài toán theo hướng **đơn giản – hiệu quả – dùng được ngay**
-* Ứng dụng **VBA, GitHub Actions, automation script** vào công việc hằng ngày
+* Viết tool & script phục vụ nhu cầu thực tế
+* Giải quyết bài toán **đơn giản – hiệu quả – dùng được ngay**
+* VBA, GitHub Actions, automation script
 
-### 🌐 Lập trình Web & Hosting
+### 🌐 Web & Hosting
 
-* Khám phá và tự triển khai **website / web service**
-* Làm việc với:
+* Tự triển khai website / web service
+* Làm việc với domain, hosting, deploy & quản lý web
+* Học bằng **thực hành – thử sai – tối ưu**
 
-  * Web hosting
-  * Domain
-  * Deploy & quản lý website
-* Tự học thông qua **thực hành – thử sai – tối ưu**
-* Tận dụng AI (ChatGPT) để:
-
-  * Học nhanh công nghệ mới
-  * Debug & cải tiến hệ thống
-
-### 🤖 Trí tuệ nhân tạo (AI)
+### 🤖 AI ứng dụng
 
 * Ứng dụng AI vào công việc hằng ngày
 * Xây dựng công cụ thông minh
-* Kết hợp AI với tự động hoá để tăng hiệu suất
+* Kết hợp **AI + Automation** để tăng hiệu suất
 
 ### ⚙️ Tự động hoá
 
 * Tối ưu quy trình làm việc
 * Giảm thao tác thủ công
-* Tăng tốc độ và độ chính xác
-* Ứng dụng:
-
-  * Tự động hoá
-  * Script + AI
-  * Action, VBA, tool tự xây dựng
+* Tăng tốc độ & độ chính xác
 
 ---
 
 ## 📚 Quan điểm cá nhân
 
-> **Công nghệ không phân biệt xuất phát điểm.
-> Chỉ cần đam mê đủ lớn và kiên trì đủ lâu.**
+> Công nghệ không phân biệt xuất phát điểm.<br>
+> Chỉ cần **đam mê đủ lớn** và **kiên trì đủ lâu**.
 
 ---
 
@@ -75,8 +81,8 @@ Trong quá trình đó, **ChatGPT** là một “đồng đội” quan trọng,
 
 ## 📫 Liên hệ
 
-👤 **Do Nguyen**
-📧 **Email:** [vongcosay@gmail.com](mailto:vongcosay@gmail.com)
+* 👤 **Do Nguyen**
+* 📧 Email: **[vongcosay@gmail.com](mailto:vongcosay@gmail.com)**
 
 Nếu bạn cũng yêu thích:
 
@@ -84,8 +90,9 @@ Nếu bạn cũng yêu thích:
 * Tự động hoá thông minh
 * AI ứng dụng thực tế
 
-👉 Rất vui được kết nối và trao đổi!
+👉 **Rất vui được kết nối và trao đổi!**
 
 ---
 
-⭐ **Cảm ơn bạn đã ghé thăm GitHub của mình!**
+© 2026 • Built by **Do Nguyen**
+*Nội dung được hỗ trợ bởi ChatGPT*
