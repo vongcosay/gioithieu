@@ -10,16 +10,6 @@
 
 ---
 
-## 🏷️ Vai trò & lĩnh vực
-
-* IT Admin
-* Automation
-* AI Application
-* Script
-* Web & Hosting
-* System
-
----
 
 ## 🚀 Giới thiệu
 
